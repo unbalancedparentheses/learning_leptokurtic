@@ -13,6 +13,7 @@
 - The (Mis)Behavior of Markets - Benoit Mandelbrot
 - Why Stock Markets Crash: Critical Events in Complex Financial Systems - Didier Sornette
 - Statistical consequences of fat tails - Nassim Taleb
+- [The Brownian Motion: A Rigorous but Gentle Introduction for Economists - Andreas Löffler, Lutz Kruschwitz](https://www.goodreads.com/book/show/47155033-the-brownian-motion)
 
 # Papers
 
