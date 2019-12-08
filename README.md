@@ -5,6 +5,7 @@
 # Articles
 
 - [Real life is risk taking - Nassim Taleb](https://medium.com/@nntaleb/real-life-is-risk-taking-ac424efd5fcc)
+- [Navigating Our World Like Birds and Bees](https://well.blogs.nytimes.com/2014/01/01/navigating-our-world-like-birds-and-bees/)
 
 # Books
 
@@ -16,4 +17,3 @@
 # Papers
 
 - [The variation of certain speculative prices - Benoit Mandelbrot](web.williams.edu/Mathematics/sjmiller/public_html/341Fa09/econ/Mandelbroit_VariationCertainSpeculativePrices.pdf)
-
