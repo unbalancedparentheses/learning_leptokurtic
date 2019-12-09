@@ -17,4 +17,12 @@
 
 # Papers
 
+- [How Much Data Do You Need? An Operational, Pre-Asymptotic Metric for Fat-tailedness - Nassim Taleb](https://arxiv.org/abs/1802.05495)
+- [On the statistical properties and tail risk of violent conflicts - Pasquale Cirillo, Nassim Nicholas Taleb](https://arxiv.org/abs/1505.04722)
 - [The variation of certain speculative prices - Benoit Mandelbrot](web.williams.edu/Mathematics/sjmiller/public_html/341Fa09/econ/Mandelbroit_VariationCertainSpeculativePrices.pdf)
+- [The Future Has Thicker Tails than the Past: Model Error As Branching Counterfactuals - Nassim Taleb](https://arxiv.org/abs/1209.2298)
+- [How We Tend To Overestimate Powerlaw Tail Exponents - Nassim Taleb](https://arxiv.org/abs/1210.1966)
+- [Where Do Thin Tails Come From? - Nassim Taleb](https://arxiv.org/abs/1307.6695)
+- [The Skin In The Game Heuristic for Protection Against Tail Events - Nassim Taleb](https://arxiv.org/abs/1308.0958)
+- [Stochastic Tail Exponent For Asymmetric Power Laws - Nassim Taleb](https://arxiv.org/abs/1609.02369)
+- [Branching epistemic uncertainty and thickness of tails - Nassim Taleb, Pasquale Cirillo](https://arxiv.org/abs/1912.00277)
