@@ -1,4 +1,4 @@
-# Leptokurtic World
+# Leptokurtic and Forecasting World
 
 > How much will additional data (under such a probability distribution) help increase the stability of the observed mean". The purpose is not entirely statistical: it can equally mean: "How much will adding an additional security into my portfolio allocation increase its stability? - Nassim Taleb
 
