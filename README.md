@@ -2,6 +2,33 @@
 
 A curated collection of resources on fat-tailed distributions, kurtosis, non-ergodic processes, and why Gaussian models fail in real-world systems. Heavily inspired by the work of Nassim Taleb, Mandelbrot, and Ole Peters.
 
+# Not yet reviewed
+
+> These resources were recently found and have not been reviewed yet.
+
+### Taleb (New Work)
+- [Statistical Consequences of Fat Tails (3rd Edition) - Taleb (2025)](https://arxiv.org/abs/2001.10488) - Three new chapters plus appendix on maximum entropy distributions
+- [Working With Convex Responses: Antifragility From Finance to Oncology - Taleb & West (Entropy, 2023)](https://arxiv.org/abs/2209.14631) - Formalizes antifragility as convex dose-response functions
+- [The Regress of Uncertainty and the Forecasting Paradox - Taleb & Cirillo (2025)](https://www.mdpi.com/2227-9091/13/12/247) - Iterated epistemic uncertainty structurally fattens tails
+
+### Cirillo (New Work)
+- [Forecasting: Theory and Practice - Petropoulos, Cirillo, et al. (International Journal of Forecasting, 2022)](https://ideas.repec.org/a/eee/intfor/v38y2022i3p705-871.html) - 167-page state-of-the-art forecasting survey including heavy tails sections
+- [From Inequality to Extremes and Back - Cirillo & Fontanari (Mathematics, 2025)](https://www.mdpi.com/2227-7390/13/13/2047) - Links extreme-value dependence to Lorenz curves
+
+### Power Laws
+- [New Horizon in Statistical Physics of Earthquakes: Dragon-King Theory - Li, Sornette et al. (2024)](https://arxiv.org/abs/2408.10857) - Evidence for dragon-king mechanisms in major seismic events
+- [Bubbles for Fama from Sornette - Zhao & Sornette (2022)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3995526) - LPPLS bubble indicator predicts low returns, addressing efficient-markets critique
+- [Deep LPPLS: Forecasting Temporal Critical Points - Nielsen, Sornette & Raissi (2024)](https://arxiv.org/abs/2405.12803) - Deep learning + LPPLS for faster, more reliable crash prediction
+
+### Forecasting Under Fat Tails
+- [On Single Point Forecasts for Fat-Tailed Variables - Taleb, Bar-Yam & Cirillo (2022)](https://arxiv.org/abs/2007.16096) - Systematic errors of point-forecast methods on multiplicative processes
+- [Ergodicity Breaking in Wealth Dynamics - Stojkoski & Karbevski (2022)](https://arxiv.org/abs/2111.12396) - Wealth dynamics are non-ergodic; reallocation changes long-run behavior
+
+### Books
+- [The Fundamentals of Heavy Tails - Nair, Wierman & Zwart (Cambridge, 2022)](https://www.cambridge.org/core/books/fundamentals-of-heavy-tails/3B1A35A6E72551E50E4723A4785044EE) - Rigorous graduate text on why heavy tails emerge and how to estimate them
+- [Extreme Value Theory for Time Series - Mikosch & Wintenberger (Springer, 2024)](https://link.springer.com/book/10.1007/978-3-031-59156-3) - 766-page treatment of EVT for dependent time series with power-law tails
+- [An Introduction to Ergodicity Economics - Peters & Adamou (LML Press, 2025)](https://ergodicityeconomics.com/an-introduction-to-ergodicity-economics/) - First textbook on ergodicity economics
+
 ## Table of Contents
 
 - [Key Insights](#key-insights)
