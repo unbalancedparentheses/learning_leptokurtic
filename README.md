@@ -29,6 +29,36 @@ A curated collection of resources on fat-tailed distributions, kurtosis, non-erg
 - [Extreme Value Theory for Time Series - Mikosch & Wintenberger (Springer, 2024)](https://link.springer.com/book/10.1007/978-3-031-59156-3) - 766-page treatment of EVT for dependent time series with power-law tails
 - [An Introduction to Ergodicity Economics - Peters & Adamou (LML Press, 2025)](https://ergodicityeconomics.com/an-introduction-to-ergodicity-economics/) - First textbook on ergodicity economics
 
+### Taleb & Cirillo (New)
+- [Informational Rescaling of PCA Maps with Application to Genetic Distance - Taleb & Cirillo (Computational and Structural Biotechnology Journal, 2025)](https://arxiv.org/abs/2303.12654) - PCA misrepresents distances under non-Gaussian data; proposes entropy-based rescaling
+- [An Algebraic Framework for Extremal Stability - Cirillo & Fontanari (Royal Society Open Science, 2025)](https://royalsocietypublishing.org/rsos/article/13/1/252164/479813/An-algebraic-framework-for-extremal-stability) - Algebraic tools for analyzing stability in extreme value distributions
+- [Quantum Majorization in Market Crash Prediction - Montana, Cirillo et al. (Risks, 2024)](https://www.mdpi.com/2227-9091/12/12/204) - Quantum majorization on tail pseudo-correlation matrices; 73-80% correct alarm rate on Dow Jones
+
+### Sornette / LPPLS (New)
+- [Generalized Visible Curvature for Bubble Identification in Cryptocurrencies - Zhang, Sornette et al. (Decision Support Systems, 2024)](https://www.sciencedirect.com/science/article/abs/pii/S0167923624001428) - Curvature-based indicator for diagnosing explosive bubble-like behavior via trend, acceleration, and volatility
+- [Detection of Financial Bubbles Using LPPLS - Shu & Song (WIREs Computational Statistics, 2024)](https://wires.onlinelibrary.wiley.com/doi/10.1002/wics.1649) - Comprehensive review of LPPLS methodology covering theory, estimation, and applications
+- [G-LPPLS-NN: Detecting Market Bubbles (Economics Letters, 2024)](https://www.sciencedirect.com/science/article/abs/pii/S0165176524004877) - Neural network for LPPLS estimating probability distribution of critical points; validated on crypto, commodity, equity
+
+### Estimation Methods (New)
+- [Tail Index Estimation for Discrete Heavy-Tailed Distributions - Bertail et al. (TEST/Springer, 2024)](https://arxiv.org/abs/2407.05281) - Extends Hill-type estimation to discrete Zipf-like distributions with non-asymptotic bounds
+- [Robust Conditional Kurtosis and International Stock Returns - Liu, Maynard & Tsiakas (J. Business & Economic Statistics, 2025)](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2551244) - Quantile-based kurtosis robust to outliers; higher robust kurtosis predicts lower future returns across 39 countries
+
+### Fat Tails in Specific Domains (New)
+- [The Changing Landscape of Cyber Risk: Loss Severity and Tail Dynamics - Eling et al. (Insurance: Mathematics and Economics, 2025)](https://www.sciencedirect.com/science/article/pii/S0167668725001428) - Cyber loss distributions remain persistently heavy-tailed; malicious severity increased since 2018
+- [Aggregated Economic Damages from Fat-Tail High-Temperature Events (Structural Change and Economic Dynamics, 2025)](https://www.sciencedirect.com/science/article/abs/pii/S0954349X25000682) - By 2100 temperature tail probability 3.45x higher than 2025; quantifies fat-tailed climate damages
+- [Measuring Macroeconomic Tail Risk - Marfe & Penasse (J. Financial Economics, 2024)](https://www.sciencedirect.com/science/article/abs/pii/S0304405X24000618) - Consumption/GDP tail risk dynamics across 42 countries over 1900-2020; macro tail risk drives equity premium
+
+### Fat Tails and AI/ML (New)
+- [A Tale of Tails: Model Collapse as a Change of Scaling Laws - Dohmatob et al. (ICML 2024)](https://arxiv.org/abs/2402.07043) - Synthetic training data erodes heavy tails causing model collapse; derives Double and Triplet scaling laws
+- [Explaining Neural Scaling Laws - Bahri et al. (PNAS, 2024)](https://www.pnas.org/doi/10.1073/pnas.2311878121) - Why neural network loss follows power-law scaling; identifies four scaling regimes
+- [Emergence of Heavy Tails in Homogenized SGD - Jiao & Keller-Ressel (NeurIPS 2024)](https://arxiv.org/abs/2402.01382) - SGD produces heavy-tailed parameters even with Gaussian noise; explicit tail index bounds
+- [Heavy-Tailed Update Distributions from Information-Driven Self-Organization - Tang et al. (PNAS, 2025)](https://www.pnas.org/doi/10.1073/pnas.2523012122) - Heavy-tailed SGD updates derived from entropy-maximization under mutual information constraints
+- [Heavy-Tailed Diffusion Models - Miani et al. (arXiv, 2024)](https://arxiv.org/abs/2410.14171) - Student-t diffusion priors outperform Gaussian on extreme weather event generation
+
+### Multifractality & Behavioral Finance (New)
+- [Disentangling Sources of Multifractality in Time Series - Kluszczynski et al. (Mathematics, 2025)](https://www.mdpi.com/2227-7390/13/2/205) - True multifractality requires temporal correlations; heavy tails alone are insufficient
+- [Probability Weighting Meets Heavy Tails: Behavioral Asset Pricing - Deep, Rachev & Fabozzi (arXiv, 2025)](https://arxiv.org/abs/2511.16563) - Student-t beats Gaussian in 88.4% of 86 assets; Gaussian models underestimate 99% VaR by 19.7%
+
 ## Table of Contents
 
 - [Key Insights](#key-insights)
