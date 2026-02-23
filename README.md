@@ -2,6 +2,10 @@
 
 A curated collection of resources on fat-tailed distributions, kurtosis, non-ergodic processes, and why Gaussian models fail in real-world systems. Heavily inspired by the work of Nassim Taleb, Mandelbrot, and Ole Peters.
 
+Taleb's 3rd edition of Statistical Consequences of Fat Tails now includes material on the "Statistical Fragility" of estimators under fat tails, formalizing when standard statistical methods silently break down. Cirillo & Taleb's work on tail risk of pandemics (applying extreme value theory to mortality data) demonstrated the methodology in real-time during COVID and has become a reference for how to estimate tail risks from sparse data. The LPPLS (Log-Periodic Power Law Singularity) literature from Sornette's group at ETH is the most developed framework for detecting speculative bubbles before they burst -- it models crashes as critical points with characteristic oscillatory signatures, with newer papers extending this to crypto markets and multi-scale detection.
+
+The heavy-tailed SGD papers (Simsekli, Gurbuzbalaban) are particularly interesting: they show that stochastic gradient descent in deep learning naturally generates Lévy-stable (heavy-tailed) noise, which helps explain why neural networks generalize -- the heavy tails help escape sharp minima. This is a genuine bridge between fat-tail statistics and deep learning theory. The domain-specific entries (cyber risk, climate extremes, macro tail risk) all apply the same core toolkit -- extreme value theory, power-law fitting, subexponential distributions -- to fields where Gaussian assumptions catastrophically fail.
+
 ## Table of Contents
 
 - [Key Insights](#key-insights)
